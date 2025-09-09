@@ -17,9 +17,9 @@ UMIS (University Management Information System) is a simple PHP project connecte
 
 
 ## ⚙️ SETUP INSTRUCTIONS
-
+ ```bash
 ## 1. Clone the repository
-   ```bash
+  
    git clone https://github.com/swathi-dev24/UMIS.git
 
 Or download as ZIP and extract into:
